@@ -1,1 +1,1 @@
-# web_page
+# simple u-net architucture
